@@ -1,6 +1,8 @@
 ### Welcome!
 
-My name is Felipe, I am a Software Engineer from Brazil.
+My name is Felipe, I am a Software Engineer from Brazil. As someone who has a background in Electrical Engineering, I am specialized in backend development and have already written a number of systems for computer aided engineering applications.
+
+![image]({https://www.linkedin.com/in/felipe-bogaerts-de-mattos-720231126/}) | ![image]({BadgeURLHere}) | ![image]({BadgeURLHere}) | ![image]({BadgeURLHere})
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipebogaertsm&hide=contribs,prs&count_private=true)
 
