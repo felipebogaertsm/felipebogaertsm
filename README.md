@@ -1,5 +1,7 @@
 ### Welcome!
 
+My name is Felipe, I am a Software Engineer from Brazil.
+
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipebogaertsm&hide=contribs,prs&count_private=true)
 
 <!--
