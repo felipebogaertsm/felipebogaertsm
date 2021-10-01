@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome!
+
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipebogaertsm&hide=contribs,prs)
 
 <!--
 **felipebogaertsm/felipebogaertsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
