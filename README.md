@@ -1,6 +1,8 @@
-### Welcome!
+### Welcome! 👋
 
 My name is Felipe, I am a Software Engineer from Brazil. As someone who has a background in Electrical Engineering, I am specialized in backend development and have already written a number of systems for computer aided engineering applications.
+
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipebogaertsm&hide=contribs,prs&count_private=true)
 
 ### Talk to me at:
 
@@ -33,8 +35,6 @@ My name is Felipe, I am a Software Engineer from Brazil. As someone who has a ba
 ### Hosting platforms: 
 
 ![image](https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white) ![image](https://img.shields.io/badge/Amazon_AWS-{232F3E}?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipebogaertsm&hide=contribs,prs&count_private=true)
 
 <!--
 **felipebogaertsm/felipebogaertsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
