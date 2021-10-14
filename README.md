@@ -1,6 +1,6 @@
 ### Welcome! 👋
 
-My name is Felipe, I am a Software Engineer from Brazil. As someone who has a background in Electrical Engineering, I am specialized in backend development and have already written a number of systems for computer aided engineering applications.
+My name is Felipe, I am a Software Engineer from Brazil. As someone who has a background in Electrical Engineering, I am specialized in backend development and have already written a number of systems for computer aided engineering applications. You can check my work in my public repos below.
 
 I currently work as a freelancer with clients from Europe and North America, doing business process automation, backend development, desktop application development and more. 
 
