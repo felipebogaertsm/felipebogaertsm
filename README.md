@@ -1,8 +1,6 @@
 ### Hi! 👋
 
-My name is Felipe, I am a Software Engineer from Brazil. As someone who has a background in Electrical Engineering, I am specialized in backend development and have already written a number of systems for computer aided engineering applications. You can check my work in my public repos below.
-
-I currently work as a freelancer with clients from Europe and North America, doing business process automation, backend development, desktop application development and more. 
+My name is Felipe, I am a Full Stack Engineer from Brazil. As a contractor, I have built many applications for companies in Europe and North America from architecture to deployment. I usually work with tools/frameworks such as Django, Next JS, React, Docker, Kubernetes and more. 
 
 ### Contact me at:
 
