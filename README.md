@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-My name is Felipe, I am a Full Stack Engineer from Brazil. As a contractor, I have built many applications for companies in Europe and North America from architecture to deployment. I usually work with tools/frameworks such as Django, Next JS, React, Docker, Kubernetes and more. 
+My name is Felipe, I am a Full Stack Engineer from Brazil. As a contractor, I have built many applications for companies in Europe and North America from architecture to deployment.
 
 ### Contact me at:
 
