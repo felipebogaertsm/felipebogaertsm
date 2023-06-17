@@ -1,6 +1,6 @@
 ### Hi! 👋
 
-My name is Felipe, I am a Full Stack Engineer from Brazil. As a contractor, I have built many applications for companies in Europe and North America from architecture to deployment.
+My name is Felipe, I am a Full Stack Engineer from Brazil. I have built many of web-based applications for companies in Europe, North America and South America. Feel free to contact me and start a conversation!
 
 ### Contact me at:
 
